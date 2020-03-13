@@ -1,2 +1,3 @@
 # detecting-musculoskeletal-conditions
-Detecting musculoskeletal abnormalities in musculoskeletal radiographs using DenseNet and CNN.
+Hacettepe University, Fall 2019, BBM 406 Course Project.
+Group Members: Hüseyincan Kaynak, Gökçe Şengün, Utku İpek.
